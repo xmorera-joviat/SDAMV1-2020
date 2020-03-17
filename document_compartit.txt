@@ -1,4 +1,4 @@
-En el present document inseriu un text o un link en l'espai que teniu a sota del vostre nom.
+﻿En el present document inseriu un text o un link en l'espai que teniu a sota del vostre nom.
 Intenteu no afegir més línies, ja que llavors els documents es "trapitgerien" i ara no és l'objectiu de la pràctica.
 
 Jordi Bacardit
@@ -14,7 +14,7 @@ Wenhao Chen
 
 
 Biel Comas
-
+Hola Bon Dia
 
 
 
